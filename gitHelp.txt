@@ -1,0 +1,22 @@
+D:\demoPrj1>git push
+D:\demoPrj1>git add .
+D:\demoPrj1>git commit -m "my message"
+D:\demoPrj1>git remote add origin https://github.com/nazmul1964/demoPython.git
+D:\demoPrj1>git push
+D:\demoPrj1>git push --set-upstream origin master
+D:\demoPrj1>git push --set-upstream origin master
+D:\demoPrj1>git pull
+D:\demoPrj1>git branch --set-upstream-to=origin/<branch> master
+D:\demoPrj1>git pull origin master
+D:\demoPrj1>git pull
+D:\demoPrj1>git remote add origin https://github.com/nazmul1964/demoJango.git
+D:\demoPrj1>git init
+D:\demoPrj1>git remote add origin https://github.com/nazmul1964/demoJango.git
+D:\demoPrj1>git add .
+D:\demoPrj1>git commit -m "my message"
+D:\demoPrj1>git push
+D:\demoPrj1>git push -u origin master
+D:\demoPrj1>git add .
+D:\demoPrj1>git commit -m "my message"
+D:\demoPrj1>git push
+D:\demoPrj1>git push

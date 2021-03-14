@@ -1,0 +1,33 @@
+
+git-scm.com/downloads
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/nazpy/test.git
+git push -u origin master
+
+git config --global user.name "nazpy"
+git config --global user.email "nazmul@daffodil.ac"
+
+git init
+git remote add origin https://github.com/nazpy/test.git
+git remote add origin https://username@github.com/nazpy/test.git
+git remote -v
+git add .
+git commit -m "fc"
+git push origin master
+git clone https://username@github.com/nazpy/test.git
+
+control panel > user accounts > credential manager > Windows credentials > Generic credentials
+
+it config --global --unset core.excludesfile
+
+And of course you can simply edit the config file:
+
+git config --global --edit
+
+git config --global --unset user.name
+git config --global --unset user.email
+
+git config --global --unset-all user.name

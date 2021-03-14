@@ -1,0 +1,37 @@
+1.Create new account from Git Hub: https://github.com/join?source=login
+
+2. Provide requred data to signup form:
+
+Username: FahadHelp
+Email: randomfahad@gmail.com
+password: randomfahad@gmail.com
+
+verify puzzles
+submit form
+
+3. Verify email
+4. Go to your repositories
+5. Create new repository by pressing button New
+6. Repository Name: Class Work
+7. Press Create button
+
+8. Install GitBash following recommanded configuration: https://git-scm.com/downloads
+9. Go to project folder from your PC
+10. Right click on your mouse and click "Open Git Bash Here"
+
+11. Copy the further steps from the Git hub
+echo "# Class-work" >> README.md
+git init
+git add .
+
+git remote add origin https://github.com/FahadHelp/Class-work.git
+git push -u origin master
+
+12.On console Type: 
+git config --global user.email "randomFahad@gmail.com"
+git config --global user.name "FahadHelp"
+
+13. Type : git commit -m "first commit"
+
+14. Type Git remote add origin <Repository Url>
+e.g. git remote add origin https://github.com/FahadHelp/Class-work.git
